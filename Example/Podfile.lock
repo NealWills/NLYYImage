@@ -1,0 +1,16 @@
+PODS:
+  - NLYYImage (0.1.0)
+
+DEPENDENCIES:
+  - NLYYImage (from `../`)
+
+EXTERNAL SOURCES:
+  NLYYImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLYYImage: 1ee90e5b6ac77120f7f824411d0da4f37ad1db55
+
+PODFILE CHECKSUM: 35632ab35cea7554b3e06aa5c81023662d2262bc
+
+COCOAPODS: 1.16.2

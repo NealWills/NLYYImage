@@ -1,0 +1,6 @@
+framework module Pods_NLYYImage_Tests {
+  umbrella header "Pods-NLYYImage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

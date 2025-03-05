@@ -1,0 +1,6 @@
+framework module NLYYImage {
+  umbrella header "NLYYImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
